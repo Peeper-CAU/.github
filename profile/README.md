@@ -19,6 +19,13 @@
 <br>
 <br>
 
+---
+
+## Screenshots
+<img src="image/app_screenshot.png" width="100%">
+
+---
+
 ## 🎖️ Tech Stacks
 ### App Client
 <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white">
