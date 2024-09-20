@@ -21,7 +21,7 @@
 
 ---
 
-## Screenshots
+## 📱 Screenshots
 <img src="image/app_screenshot.png" width="100%">
 
 ---
